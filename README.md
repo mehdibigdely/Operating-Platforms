@@ -1,4 +1,4 @@
-# Operating-Platforms
+## Operating-Platforms
 SNHU Operating Platforms class
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The Gaming Room has ordered a web-based game that need to be capable of running on various platforms. “Draw It or Lose It” is the name of the game that is only designed to run on android OS. Different teams consisting of several people compete in four rounds that each is limited to one minute. The game is run in this way: one picture is taken out of the gallery and one of the teams guesses in the allocated time. If the first team cannot guess correctly, other competing team members have a chance until 15 seconds is over
